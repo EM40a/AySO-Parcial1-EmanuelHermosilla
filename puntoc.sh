@@ -4,7 +4,7 @@ useradd devops
 useradd diseñador
 
 groupadd grupoDevops
-groupadd grupoDiseño
+groupadd grupoDiseñador
 groupadd grupoDeveloper
 
 usermod -aG grupoDevops developer
