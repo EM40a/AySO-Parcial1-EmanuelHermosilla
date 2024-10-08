@@ -1,7 +1,7 @@
 useradd developer
 useradd tester
-userad devops
-user add diseñador
+useradd devops
+useradd diseñador
 
 groupadd grupoDevops
 groupadd grupoDiseño
